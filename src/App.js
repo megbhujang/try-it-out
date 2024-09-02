@@ -17,7 +17,7 @@ function App() {
         >
           Learn React
         </a>
-        <a
+        Simulate a delay for demonstration setTimeout(()       <a
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
@@ -26,9 +26,7 @@ function App() {
           Learn React2
         </a>
         <p>
-          Hi, how are you?
-          okkk correct
-        </p>
+        Simulate a delay for demonstration setTimeout(() document.getElementById("preloader").style.display = "none"; // Display the main content after the preloader is hidden document.body.style.overflow = "visible" </p>
       </header>
     </div>
   );

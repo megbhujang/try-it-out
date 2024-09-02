@@ -26,8 +26,11 @@ function App() {
           Learn React2
         </a>
         <p>
-          Hi, how are you?
-          okkk correct
+          <b1>jitmanyu shandilya</b1>
+          <b1>jitmanyu shandilya</b1>
+          <b1>jitmanyu shandilya</b1>
+          <b1>jitmanyu shandilya</b1>
+          
         </p>
       </header>
     </div>
